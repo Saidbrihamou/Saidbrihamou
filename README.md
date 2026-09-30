@@ -22,49 +22,56 @@ Through the 42 program, I developed strong foundations in:
 ## 📚 Projects Completed
 
 ### Core Foundations (C Programming)
-- Libft  
-- ft_printf  
-- get_next_line  
-- Born2beroot  
+
+- Libft
+- ft_printf
+- get_next_line
+- Born2beroot
 
 ---
 
 ### Algorithms & Unix
-- push_swap  
-- pipex  
+
+- push_swap
+- pipex
 
 ---
 
 ### Concurrency & Systems
-- philosophers  
-- minishell  
+
+- philosophers
+- minishell
 
 ---
 
 ### Graphics & System Projects
-- so_long  
-- cub3d  
-- Inception  
+
+- so_long
+- cub3d
+- Inception
 
 ---
 
 ### Networking & Web Development
-- webserv  
-- ft_transcendence  
+
+- webserv
+- [ft_transcendence](https://github.com/KanekiEzz/1337_Ft_Transcendence_42)
 
 ---
 
 ### C++ Modules
-- CPP Module 00 → 09  
+
+- CPP Module 00 → 09
 
 ---
 
 ### Exams
-- Exam Rank 02  
-- Exam Rank 03  
-- Exam Rank 04  
-- Exam Rank 05  
-- Exam Rank 06  
+
+- Exam Rank 02
+- Exam Rank 03
+- Exam Rank 04
+- Exam Rank 05
+- Exam Rank 06
 
 ---
 
